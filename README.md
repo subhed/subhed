@@ -2,7 +2,7 @@
   Subhed Chavan
 </div>
 <p align="center">
-  <a href="https://www.subhedchavan.com">Portfolio</a> ·
+  <a href="https://www.subhedchavan.com/?utm_source=github&utm_medium=profile&utm_campaign=portfolio">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/subhed/">LinkedIn</a> ·
   <a href="mailto:chavansubhed@gmail.com">Email</a>
 </p>
